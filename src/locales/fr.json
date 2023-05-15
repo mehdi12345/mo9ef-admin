@@ -1,0 +1,116 @@
+{
+  "navbar": {
+    "search": {
+      "text": "Chercher..."
+    },
+    "dropdown": {
+      "megamenu": {
+        "text": "Mega Menu",
+        "uicontent": {
+          "title": "Composants de l'interface utilisateur",
+          "list": {
+            "lightbox": "Boite à lumière",
+            "rangeslider": "Curseur de plage",
+            "sweetalert": "Sweet Alert",
+            "rating": "Évaluation",
+            "forms": "Formes",
+            "tables": "les tables",
+            "charts": "Graphiques"
+          }
+        },
+        "application": {
+          "title": "Applications",
+          "list": {
+            "ecommerce": "Commerce électronique",
+            "calendar": "Calendrier",
+            "email": "Email",
+            "projects": "Projets",
+            "tasks": "Tâches",
+            "contacts": "Contacts"
+          }
+        },
+        "extrapages": {
+          "title": "Pages supplémentaires",
+          "list": {
+            "lightsidebar": "Barre latérale légère",
+            "compactsidebar": "Barre latérale compacte",
+            "horizontallayout": "Disposition horizontale",
+            "maintenance": "Entretien",
+            "comingsoon": "Bientôt disponible",
+            "timeline": "Chronologie",
+            "faqs": "FAQ"
+          }
+        }
+      },
+      "site": {
+        "list": {
+          "github": "GitHub",
+          "bitbucket": "Bitbucket",
+          "dribbble": "Dribble",
+          "dropbox": "Dropbox",
+          "mailchimp": "Mail Chimp",
+          "slack": "Molle"
+        }
+      },
+      "notification": {
+        "text": "Notifications",
+        "subtext": "Voir tout",
+        "order": {
+          "title": "Votre commande est passée",
+          "text": "Si plusieurs langues fusionnent la grammaire",
+          "time": "Il y a 3 minutes"
+        },
+        "james": {
+          "title": "James Lemire",
+          "text": "It will seem like simplified English.",
+          "time": "Il y a 1 heure"
+        },
+        "item": {
+          "title": "Votre article est expédié",
+          "text": "Si plusieurs langues fusionnent la grammaire",
+          "time": "Il y a 3 minutes"
+        },
+        "salena": {
+          "title": "Salena Layfield",
+          "text": "As a skeptical Cambridge friend of mine occidental.",
+          "time": "Il y a 1 heure"
+        },
+        "button": "Charger plus.."
+      },
+      "kevin": {
+        "text": "Kevin",
+        "list": {
+          "profile": "Profil",
+          "mywallet": "Mon portefeuille",
+          "settings": "Réglages",
+          "lockscreen": "Écran verrouillé",
+          "logout": "Se déconnecter"
+        }
+      }
+    }
+  },
+  "menuitems": {
+    "menu": {
+      "text": "Menu"
+    },
+    "dashboard": {
+      "text": "Tableaux de bord",
+      "badge": "3"
+    },
+    "annonce": {
+      "text": "Annonce"
+    },
+    "users": {
+      "text": "Utilisateurs",
+      "badge": "3"
+    },
+    "clients": {
+      "text": "Clients",
+      "badge": "3"
+    },
+    "categories": {
+      "text": "Catégories",
+      "badge": "3"
+    }
+  }
+}
